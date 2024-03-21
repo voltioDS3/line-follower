@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "fpe")(type "KiCad")(uri "${KIPRJMOD}/fpe.kicad_sym")(options "")(descr ""))
+)
